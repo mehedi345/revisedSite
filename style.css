@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.article{
+    width:32%;
+    height: auto;
+    margin-left: 10px;
+    border:1px solid none;
+    text-align: center;
+    font-size: 16px;
+    padding:5px;
+    float: left;
+    margin-bottom: 10px;
+}
+.article img{
+    width:100px;
+}
+.html-head{
+    text-align: center;
+    color:dimgray;
+    clear:both;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-variant: small-caps;
+}
+.html-section{
+    width: 30%;
+    height: auto;
+    text-align: center;
+    background-color: snow;
+    color: dimgrey;
+    box-shadow: 4px 4px 5px #8080803b;
+    clear: both;
+    margin-left: 20px;
+    padding: 5px;
+    float: left;
+    clear: both;
+   border:1px solid none;
+   
+ 
+}
+#attr{
+    position: absolute;;
+    left:900px;
+    top:250px;
+    margin-left: 20px;
+    padding:8px 0px 8px 0px;
+    height:110px;
+}
+#semantic{
+    position: absolute;
+    top:250px;
+    left:450px;
+    height:110px;
+}
+#tag-head{
+    margin-top: 10px;
+    overflow:hidden;
+    padding-top: 15px;
+}
+.tag{
+    width:20%;
+    height: 165px;
+    text-align: center;
+    border:1px solid white;
+    box-shadow: 2px 2px 3px gray;
+   word-wrap: no-wrap;
+    padding:5px;
+    margin-top: 20px;
+    float: left;
+    margin: 10px;
+    margin-left: 25px;
+}
+.tag span{
+    display: block;
+    font-weight: bold;
+    font-size: 16px;
+}
+.git-section{
+    width:70%;
+    height:auto;
+    margin:0px auto;
+    border:1px solid white;
+    text-align: center;
+    font-size: 16px;
+    padding:15px;
+}
+ol li{
+    list-style: none;
+}
